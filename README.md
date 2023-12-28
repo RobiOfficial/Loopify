@@ -7,6 +7,7 @@ Loopify is a Minecraft plugin that allows you to create an announcement and cust
 - Supports Placeholders (PlaceholderAPI)
 - Supports Minecraft versions 1.13 - 1.20
 - Supports HEX colors.
+- bStats.
 
 # Installation & Setup
 - Before downloading the plugin, you also need to add mandatory **dependencies** (listed above) to the server. Without them, the plugin will not work.
